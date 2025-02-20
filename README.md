@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sodiq2012
-- 👀 I’m interested in data analysts and data scientist entry level role or intern
+- 👀 I’m interested in front-end  entry level role or intern
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking for an opportunity in data science field.
 - 📫 How to reach me , you can reach me on LinkedIn @ www.linkedin.com/in/
